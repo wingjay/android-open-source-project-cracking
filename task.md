@@ -1,5 +1,5 @@
 # Processing
-说明：`分类` ： `application`, `view`, `library`
+`分类` ： `application`, `view`, `library`.
 
 
 项目名称 | 项目地址 | 分类 | 负责人 | 启动时间 
