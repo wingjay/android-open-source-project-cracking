@@ -12,7 +12,7 @@ _________________________________
 ### 一、已有文章
 分析文档 | 作者 | 开源项目
 :------------- | :------------- | :------------- 
-[Meizhi Android之RxJava & Retrofit最佳实践](http://www.jianshu.com/p/47e72693a302) | [wingjay](https://github.com/wingjay) | [Meizhi](github.com/drakeet/Meizhi)
+[Meizhi Android之RxJava & Retrofit最佳实践](https://github.com/wingjay/android-open-source-project-cracking/blob/master/application/Meizhi%20Android%E4%B9%8BRxJava%20%26%20Retrofit%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md) | [wingjay](https://github.com/wingjay) | [Meizhi](github.com/drakeet/Meizhi)
 
 ### 二、我们会挑选哪些`优质开源项目`
 #### 1. 新技术
