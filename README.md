@@ -13,6 +13,16 @@ _________________________________
 分析文档 | 作者 | 开源项目
 :------------- | :------------- | :------------- 
 [Meizhi Android之RxJava & Retrofit最佳实践](https://github.com/wingjay/android-open-source-project-cracking/blob/master/application/Meizhi%20Android%E4%B9%8BRxJava%20%26%20Retrofit%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md) | [wingjay](https://github.com/wingjay) | [Meizhi](github.com/drakeet/Meizhi)
+[RxPermissions源码解析](http://www.jianshu.com/p/c8a30200e6b2)| [Skykai521](https://github.com/Skykai521)| [RxPermissions](https://github.com/tbruyelle/RxPermissions)
+[JJSearchViewAnim源码分析](http://www.jianshu.com/p/a48f4e6cf036)| [Skykai521](https://github.com/Skykai521)| [JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim)
+[BarcodeScanner源码分析](http://www.jianshu.com/p/d34383d4cb89)| [Skykai521](https://github.com/Skykai521)| [BarcodeScanner](https://github.com/dm77/barcodescanner)
+[ViewAnimator源码分析](http://www.jianshu.com/p/749c4531d108)| [Skykai521](https://github.com/Skykai521)| [ViewAnimator](https://github.com/florent37/ViewAnimator)
+[uCrop源码分析](http://www.jianshu.com/p/523e77a10321)| [Skykai521](https://github.com/Skykai521)| [uCrop](https://github.com/Yalantis/uCrop)
+[Picasso源代分析](http://www.jianshu.com/p/3c36382bc1cd)| [Skykai521](https://github.com/Skykai521)| [Picasso](https://github.com/square/picasso)
+[SwipeBackLayout源码分析](http://www.jianshu.com/p/a91d669421e9)| [Skykai521](https://github.com/Skykai521)| [SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
+[EventBus 3.0源码分析](http://www.jianshu.com/p/f057c460c77e)| [Skykai521](https://github.com/Skykai521)| [EventBus](https://github.com/greenrobot/EventBus)
+[HTextView源码分析](http://www.jianshu.com/p/15358d444800)| [Skykai521](https://github.com/Skykai521)| [HTextView](https://github.com/hanks-zyh/HTextView)
+
 
 ### 二、我们会挑选哪些`优质开源项目`
 #### 1. 新技术
