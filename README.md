@@ -60,7 +60,15 @@ _________________________________
 4. `翻译者`。如果你还不具备分析开源项目的能力，那可以来对我们的中文文章进行翻译。这个翻译过程会让你受益匪浅的。
 5. `校对者`。如果你技术过硬，愿意帮助新手程序员，可以发邮件给我<mailto:yinjiesh@126.com>，我相信"校对者"三个字会让很多年轻程序员记住你。
 
+### 四、写作者
+[wingjay](https://github.com/wingjay) 
 
+![](https://avatars0.githubusercontent.com/u/9619875?v=3&s=460)
 
+[达庆凯 Skykai521](https://github.com/Skykai521) 
+
+![](https://avatars3.githubusercontent.com/u/8402109?v=3&s=100)
+
+...
 
 
