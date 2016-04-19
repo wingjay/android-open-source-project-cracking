@@ -4,7 +4,7 @@
 
 项目名称 | 项目地址 | 分类 | 负责人 | 启动时间 
 :------------- | :------------- | :------------- | :------------- | :------------- 
-Test | https://github.com/wingjay | application | wingjay | 20160416
+RxLifecycle | https://github.com/trello/RxLifecycle | 用来控制rx网络请求与生命周期的关联 | wingjay | 20160419
 
 
 # Todo
