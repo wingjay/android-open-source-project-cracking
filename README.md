@@ -26,13 +26,13 @@ _________________________________
 #### Library
 分析文档 | 作者 | 开源项目 | 介绍 | 添加时间
 :------------- | :------------- | :------------- | :------------- | :-------------
+[ButterKnife源码分析](https://github.com/wingjay/android-open-source-project-cracking/blob/master/library/ButterKnife.md)| [BigFootprint](https://github.com/BigFootprint)| [ButterKnife](http://jakewharton.github.io/butterknife/) | | 20160423
 [RxPermissions源码解析](http://www.jianshu.com/p/c8a30200e6b2)| [Skykai521](https://github.com/Skykai521)| [RxPermissions](https://github.com/tbruyelle/RxPermissions) | | 20160417
 [BarcodeScanner源码分析](http://www.jianshu.com/p/d34383d4cb89)| [Skykai521](https://github.com/Skykai521)| [BarcodeScanner](https://github.com/dm77/barcodescanner) | | 20160417
 [ViewAnimator源码分析](http://www.jianshu.com/p/749c4531d108)| [Skykai521](https://github.com/Skykai521)| [ViewAnimator](https://github.com/florent37/ViewAnimator) | | 20160417
 [uCrop源码分析](http://www.jianshu.com/p/523e77a10321)| [Skykai521](https://github.com/Skykai521)| [uCrop](https://github.com/Yalantis/uCrop) | | 20160417
 [Picasso源代分析](http://www.jianshu.com/p/3c36382bc1cd)| [Skykai521](https://github.com/Skykai521)| [Picasso](https://github.com/square/picasso) | | 20160417
 [EventBus 3.0源码分析](http://www.jianshu.com/p/f057c460c77e)| [Skykai521](https://github.com/Skykai521)| [EventBus](https://github.com/greenrobot/EventBus) | | 20160417
-[ButterKnife源码分析](https://github.com/wingjay/android-open-source-project-cracking/blob/master/library/ButterKnife.md)| [BigFootprint](https://github.com/BigFootprint)| [ButterKnife](http://jakewharton.github.io/butterknife/) | | 20160423
 
 ### 二、我们会挑选哪些`优质开源项目`
 #### 1. 新技术
