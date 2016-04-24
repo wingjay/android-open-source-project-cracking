@@ -32,6 +32,7 @@ _________________________________
 [uCrop源码分析](http://www.jianshu.com/p/523e77a10321)| [Skykai521](https://github.com/Skykai521)| [uCrop](https://github.com/Yalantis/uCrop) | | 20160417
 [Picasso源代分析](http://www.jianshu.com/p/3c36382bc1cd)| [Skykai521](https://github.com/Skykai521)| [Picasso](https://github.com/square/picasso) | | 20160417
 [EventBus 3.0源码分析](http://www.jianshu.com/p/f057c460c77e)| [Skykai521](https://github.com/Skykai521)| [EventBus](https://github.com/greenrobot/EventBus) | | 20160417
+[ButterKnife源码分析](http://www.muzileecoding.com/opensource/ButterKnife.html)| [BigFootprint](https://github.com/BigFootprint)| [ButterKnife](http://jakewharton.github.io/butterknife/) | | 20160423
 
 ### 二、我们会挑选哪些`优质开源项目`
 #### 1. 新技术
