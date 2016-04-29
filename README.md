@@ -14,7 +14,7 @@ _________________________________
 #### Application
 分析文档 | 作者 | 开源项目 | 介绍 | 添加时间
 :------------- | :------------- | :------------- | :------------- | :------------- 
-[Meizhi Android之RxJava & Retrofit最佳实践](https://github.com/wingjay/android-open-source-project-cracking/blob/master/application/Meizhi%20Android%E4%B9%8BRxJava%20%26%20Retrofit%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md) | [wingjay](https://github.com/wingjay) | [Meizhi](github.com/drakeet/Meizhi) | 使用RxJava & Retrofit的sample | 20160416
+[Meizhi Android之RxJava & Retrofit最佳实践](https://github.com/wingjay/android-open-source-project-cracking/blob/master/application/Meizhi%20Android%E4%B9%8BRxJava%20%26%20Retrofit%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md) | [wingjay](https://github.com/wingjay) | [Meizhi](https://github.com/drakeet/Meizhi) | 使用RxJava & Retrofit的sample | 20160416
 
 #### View
 分析文档 | 作者 | 开源项目 | 介绍 | 添加时间
