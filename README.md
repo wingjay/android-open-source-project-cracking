@@ -56,7 +56,7 @@ _________________________________
 如果你对本项目有兴趣，你可以选择以下方式之一加入进来：
 
 1. `阅读者`。`start & watch`这个项目，关注微信公众号`CoolCoder`，我们会在第一时间推送。
-2. `写作者`。如果你热爱分析开源项目，热爱分享与写作。那就挑选一个你认为优质的开源项目进行写作，创建pull request。另外，你可以在[task.md](https://github.com/wingjay/android-open-source-project-cracking/blob/task/task.md)里记录你准备分析的项目。
+2. `写作者`。如果你热爱分析开源项目，热爱分享与写作。那就挑选一个你认为优质的开源项目进行写作，创建pull request。另外，你可以在[task.md](https://github.com/wingjay/android-open-source-project-cracking/blob/master/task.md)里记录你准备分析的项目。
 3. `评论者`。阅读中遇到问题？直接创建[issue](https://github.com/wingjay/android-open-source-project-cracking/issues)，作者会快速回答你。
 4. `翻译者`。如果你还不具备分析开源项目的能力，那可以来对我们的中文文章进行翻译。这个翻译过程会让你受益匪浅的。
 5. `校对者`。如果你技术过硬，愿意帮助新手程序员，可以发邮件给我<mailto:yinjiesh@126.com>，我相信"校对者"三个字会让很多年轻程序员记住你。
