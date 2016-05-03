@@ -72,7 +72,7 @@ _________________________________
 
 [BigFootprint](https://github.com/BigFootprint)
 
-![](https://avatars3.githubusercontent.com/u/1704881?v=3&s=460)
+![](https://avatars3.githubusercontent.com/u/1704881?v=3&s=150)
 
 ...
 
