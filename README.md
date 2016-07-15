@@ -15,6 +15,7 @@ _________________________________
 分析文档 | 作者 | 开源项目 | 介绍 | 添加时间
 :------------- | :------------- | :------------- | :------------- | :------------- 
 [Meizhi Android之RxJava & Retrofit最佳实践](https://github.com/wingjay/android-open-source-project-cracking/blob/master/application/Meizhi%20Android%E4%B9%8BRxJava%20%26%20Retrofit%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md) | [wingjay](https://github.com/wingjay) | [Meizhi](https://github.com/drakeet/Meizhi) | 使用RxJava & Retrofit的sample | 20160416
+[带你学开源项目：RxLifecycle － 当Activity被destory时自动暂停网络请求](https://wingjay.com/2016/07/14/RxLifecycle%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%8D%E5%BD%93Activity%E8%A2%ABdestory%E6%97%B6%E8%87%AA%E5%8A%A8%E6%9A%82%E5%81%9C%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/) | [wingjay](https://github.com/wingjay) | [RxLifecycle](https://github.com/trello/RxLifecycle) | 处理RxJava中subscription内存泄漏问题 | 20160715
 
 #### View
 分析文档 | 作者 | 开源项目 | 介绍 | 添加时间
