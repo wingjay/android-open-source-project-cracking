@@ -4,7 +4,10 @@
 
 项目名称 | 项目地址 | 分类 | 负责人 | 启动时间 
 :------------- | :------------- | :------------- | :------------- | :------------- 
-
+OkHttp | https://github.com/square/okhttp | | wingjay | 20160720
+Okio  | https://github.com/square/okio/ | | wingjay | 20160720
+picasso | https://github.com/square/picasso | | wingjay | 20160720
+Fresco | https://github.com/facebook/fresco | | wingjay | 20160720
 
 # Todo
 项目名称 | 项目地址 | 备选原因 | 添加者 | 添加时间
