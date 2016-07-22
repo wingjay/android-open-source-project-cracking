@@ -6,6 +6,7 @@
 :------------- | :------------- | :------------- | :------------- | :------------- 
 Stetho | https://github.com/facebook/stetho | | wingjay | 20160720
 Okio  | https://github.com/square/okio/ | | wingjay | 20160720
+Leakcanary | https://github.com/square/leakcanary | | wingjay | 20160722
 picasso | https://github.com/square/picasso | | wingjay | 20160720
 Fresco | https://github.com/facebook/fresco | | wingjay | 20160720
 
