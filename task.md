@@ -4,6 +4,7 @@
 
 项目名称 | 项目地址 | 分类 | 负责人 | 启动时间 
 :------------- | :------------- | :------------- | :------------- | :------------- 
+DeepLinkDispatch | https://github.com/airbnb/DeepLinkDispatch | | wingjay | 2016/09/21
 Stetho | https://github.com/facebook/stetho | | wingjay | 20160720
 Okio  | https://github.com/square/okio/ | | wingjay | 20160720
 Leakcanary | https://github.com/square/leakcanary | | wingjay | 20160722
