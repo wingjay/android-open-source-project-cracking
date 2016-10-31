@@ -14,8 +14,8 @@ _________________________________
 #### Application
 分析文档 | 作者 | 开源项目 | 介绍 | 添加时间
 :------------- | :------------- | :------------- | :------------- | :------------- 
-[自己动手实现OkHttp](https://wingjay.com/2016/07/21/%E5%B8%A6%E4%BD%A0%E5%AD%A6%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%9AOkHttp-%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%AE%9E%E7%8E%B0okhttp/) | [wingjay](https://github.com/wingjay) | [OkHttp](https://github.com/square/okhttp) | 学习okhttp世界级项目的思维精华 | 20160721
-[RxLifecycle: 当Activity被destory时暂停网络请求](https://wingjay.com/2016/07/14/RxLifecycle%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%8D%E5%BD%93Activity%E8%A2%ABdestory%E6%97%B6%E8%87%AA%E5%8A%A8%E6%9A%82%E5%81%9C%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/) | [wingjay](https://github.com/wingjay) | [RxLifecycle](https://github.com/trello/RxLifecycle) | 处理RxJava中内存泄漏问题 | 20160715
+[自己动手实现OkHttp](http://wingjay.com/2016/07/21/%E5%B8%A6%E4%BD%A0%E5%AD%A6%E5%BC%80%E6%BA%90%E9%A1%B9%E7%9B%AE%EF%BC%9AOkHttp-%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%AE%9E%E7%8E%B0okhttp/) | [wingjay](https://github.com/wingjay) | [OkHttp](https://github.com/square/okhttp) | 学习okhttp世界级项目的思维精华 | 20160721
+[RxLifecycle: 当Activity被destory时暂停网络请求](http://wingjay.com/2016/07/14/RxLifecycle%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90%EF%BC%8D%E5%BD%93Activity%E8%A2%ABdestory%E6%97%B6%E8%87%AA%E5%8A%A8%E6%9A%82%E5%81%9C%E7%BD%91%E7%BB%9C%E8%AF%B7%E6%B1%82/) | [wingjay](https://github.com/wingjay) | [RxLifecycle](https://github.com/trello/RxLifecycle) | 处理RxJava中内存泄漏问题 | 20160715
 [Meizhi Android之RxJava & Retrofit最佳实践](https://github.com/wingjay/android-open-source-project-cracking/blob/master/application/Meizhi%20Android%E4%B9%8BRxJava%20%26%20Retrofit%E6%9C%80%E4%BD%B3%E5%AE%9E%E8%B7%B5.md) | [wingjay](https://github.com/wingjay) | [Meizhi](https://github.com/drakeet/Meizhi) | 使用RxJava & Retrofit的sample | 20160416
 
 
